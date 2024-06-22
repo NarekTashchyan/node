@@ -5,7 +5,6 @@ const getAllMovies = (req, res) => {
     } else {
         res.status(200).json(movies)
     }
-
 }
 
 const getMovieById = (req, res) => {
@@ -89,11 +88,11 @@ const deleteMovie = (req, res) => {
 
 
 const deleteAll = (req, res) => {
-    if (movies.length === 0){
+    if (movies.length === 0) {
         res.status(404).json({ message: "No movies found" });
-    }else{
+    } else {
         movies = []
-        res.status(200).json({ message:"Movies deleted successfully"})
+        res.status(200).json({ message: "Movies deleted successfully" })
     }
 }
 
