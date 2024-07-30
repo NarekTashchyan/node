@@ -27,7 +27,7 @@ I'm a passionate developer interested in web development, open source, and build
 ## 📫 How to reach me
 
 - Email: narek.tashchian@gmail.com
-- LinkedIn: Narek Tashchyan(https://www.linkedin.com/in/narek-tashchyan17/)
+- LinkedIn: [Narek Tashchyan](https://www.linkedin.com/in/narek-tashchyan17/)
 
 ---
 
