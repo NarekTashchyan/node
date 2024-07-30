@@ -26,8 +26,8 @@ I'm a passionate developer interested in web development, open source, and build
 
 ## 📫 How to reach me
 
-- Email: your-email@example.com
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/narek-tashchyan17/)
+- Email: narek.tashchian@gmail.com
+- LinkedIn: Narek Tashchyan(https://www.linkedin.com/in/narek-tashchyan17/)
 
 ---
 
